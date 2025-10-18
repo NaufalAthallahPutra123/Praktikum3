@@ -1,7 +1,7 @@
 # Praktikum3
 ## Menentukan Bilangan Terbesar
 tampilan python file
-![img]screenshot/ss1.png
+![Gambar 1](screenshot/ss1.png)
 
 ### Flowchart
-![img]screenshot/ss2.png
+![Gambar 2](screenshot/ss2.png)
